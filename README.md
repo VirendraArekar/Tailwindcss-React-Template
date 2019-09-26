@@ -7,4 +7,4 @@ For installing nessesary packages
 
 ### `important point`
 
-For testing each component you have to changes component ame in app and also import that component and hit or refresh http://localhost:3000
+For testing each component you have to changes component name in app and also import that component and hit or refresh http://localhost:3000
